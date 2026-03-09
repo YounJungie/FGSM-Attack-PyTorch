@@ -16,8 +16,7 @@ Bidirectional LSTM sentiment classifier attacked via embedding space perturbatio
 Part 3 — Defense
 Adversarial training: mixing clean + adversarial examples during training. Robust model holds ~55% accuracy under attack vs ~30% for standard model.
 
-Results
-EpsilonStandard CNNRobust CNN0.00~85%~80%0.05~50%~65%0.10~30%~55%0.30~10%~35%
+
 
 References
 
